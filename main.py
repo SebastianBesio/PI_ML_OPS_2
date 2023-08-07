@@ -113,9 +113,7 @@ def prediccion(earlyaccess: bool, sentiment: str, year: int,
         earlyaccess=False,
         sentiment= 'Mostly Positive',
         year=2018,
-        genre=['Action', 'Casual', 'Indie', 'Simulation', 'Strategy'],
-        tags=['Strategy', 'Action', 'Indie', 'Casual', 'Simulation'],
-        specs=['Single-player']
+        genre=['Action', 'Casual', 'Indie', 'Simulation', 'Strategy']
     )
     """
     import sklearn

@@ -67,7 +67,7 @@ En esté proyecto se lograron disponibilizar los datos históricos de una forma 
 
 [Root](https://pi-ml-ops-sebastian-besio.onrender.com/)
 
-[Docs](https://pi-ml-ops-sebastian-besio.onrender.com/Docs)
+[Docs](https://pi-ml-ops-sebastian-besio.onrender.com/docs)
 
 [genero](https://pi-ml-ops-sebastian-besio.onrender.com/genero/2015)
 
@@ -75,7 +75,7 @@ En esté proyecto se lograron disponibilizar los datos históricos de una forma 
 
 [specs](https://pi-ml-ops-sebastian-besio.onrender.com/specs/2015)
 
-[earlyaccess](https://pi-ml-ops-sebastian-besio.onrender.com/earlyaccess/2015)
+[earlyaccess](https://pi-ml-ops-sebastian-besio.onrender.com/earlyacces/2015)
 
 [sentiment](https://pi-ml-ops-sebastian-besio.onrender.com/sentiment/2015)
 
