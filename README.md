@@ -48,7 +48,7 @@ Se utilizó FastAPI porque era una forma muy rapida y sencilla de crear una API.
 
 Además luego se hizo un deployment en Render para poder disponibilizarlo en el siguiente link.
 
-[Deployed on Render](https://pi-ml-ops-deploy.onrender.com)
+[Deployed on Render](https://pi-ml-ops-sebastian-besio.onrender.com)
 
 
 ## **Conclusiones:**
@@ -65,20 +65,20 @@ En esté proyecto se lograron disponibilizar los datos históricos de una forma 
 
 # API Examples
 
-[Root](https://pi-ml-ops-deploy.onrender.com/)
+[Root](https://pi-ml-ops-sebastian-besio.onrender.com/)
 
-[Docs](https://pi-ml-ops-deploy.onrender.com/Docs)
+[Docs](https://pi-ml-ops-sebastian-besio.onrender.com/Docs)
 
-[genero](https://pi-ml-ops-deploy.onrender.com/genero/2015)
+[genero](https://pi-ml-ops-sebastian-besio.onrender.com/genero/2015)
 
-[juegos](https://pi-ml-ops-deploy.onrender.com/juegos/2015)
+[juegos](https://pi-ml-ops-sebastian-besio.onrender.com/juegos/2015)
 
-[specs](https://pi-ml-ops-deploy.onrender.com/specs/2015)
+[specs](https://pi-ml-ops-sebastian-besio.onrender.com/specs/2015)
 
-[earlyaccess](https://pi-ml-ops-deploy.onrender.com/earlyaccess/2015)
+[earlyaccess](https://pi-ml-ops-sebastian-besio.onrender.com/earlyaccess/2015)
 
-[sentiment](https://pi-ml-ops-deploy.onrender.com/sentiment/2015)
+[sentiment](https://pi-ml-ops-sebastian-besio.onrender.com/sentiment/2015)
 
-[metascore](https://pi-ml-ops-deploy.onrender.com/metascore/2015)
+[metascore](https://pi-ml-ops-sebastian-besio.onrender.com/metascore/2015)
 
-[Prueba Prediccion](https://pi-ml-ops-deploy.onrender.com/prediccion/?earlyaccess=true&sentiment=%27Mostly%20Positive%27&year=2018&genre=Casual&genre=Indie&genre=Simulation&genre=Strategy)
+[Prueba Prediccion](https://pi-ml-ops-sebastian-besio.onrender.com/prediccion/?earlyaccess=true&sentiment=%27Mostly%20Positive%27&year=2018&genre=Casual&genre=Indie&genre=Simulation&genre=Strategy)

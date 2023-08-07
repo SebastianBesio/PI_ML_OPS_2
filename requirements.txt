@@ -20,9 +20,8 @@ PyYAML
 scikit-learn
 scipy
 six
-sklearn
 sniffio
-starlette
+starlette==0.27.0
 threadpoolctl
 typing_extensions
 tzdata
